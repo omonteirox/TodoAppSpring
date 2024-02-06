@@ -1,0 +1,7 @@
+package com.omonteirox.todoApp.exceptions;
+
+public class NotFoundException extends RuntimeException{
+    public NotFoundException(String message) {
+        super(message);
+    }
+}

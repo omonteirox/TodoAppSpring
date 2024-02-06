@@ -33,3 +33,11 @@ build/
 .vscode/
 
 src/main/resources/application.properties
+
+src/test/
+
+mvnw
+
+mvnw.cmd
+
+.mvn/
